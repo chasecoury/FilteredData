@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Manchester City",
+        "champion": "1",
+        "country": "England"
+    },
+
+    {
+        "name": "Real Madrid",
+        "champion": "14",
+        "country": "Spain"
+    },
+
+    {
+        "name": "Inter Milan",
+        "champion": "3",
+        "country": "Italy"
+    },
+    
+    {
+        "name": "Bayer Leverkusen",
+        "champion": "0",
+        "country": "Germany"
+    },
+
+    {
+        "name": "Paris Saint-Germain",
+        "champion": "0",
+        "country": "France"
+    },
+
+    {
+        "name": "Liverpool FC",
+        "champion": "6",
+        "country": "England"
+    },
+
+    {
+        "name": "Arsenal",
+        "champion": "0",
+        "country": "England"
+    },
+
+    {
+        "name": "Bayer Munchen",
+        "champion": "6",
+        "country": "Germany"
+    },
+
+    {
+        "name": "Borussia Dortmund",
+        "champion": "1",
+        "country": "Germany"
+    },
+
+    {
+        "name": "Barcelona",
+        "champion": "5",
+        "country": "Spain"
+    },
+
+    {
+        "name": "RB Leipzig",
+        "champion": "0",
+        "country": "Germany"
+    },
+
+    {
+        "name": "Sporting CP",
+        "champion": "0",
+        "country": "Portugal"
+    },
+
+    {
+        "name": "AC Milan",
+        "champion": "7",
+        "country": "Italy"
+    },
+
+    {
+        "name": "PSV Eindhoven",
+        "champion": "1",
+        "country": "Netherlands"
+    },
+
+    {
+        "name": "Aston Villa",
+        "champion": "0",
+        "country": "England"
+    },
+
+    {
+        "name": "Atalanta",
+        "champion": "0",
+        "country": "Italy"
+    },
+
+    {
+        "name": "Benefica",
+        "champion": "2",
+        "country": "Portugal"
+    },
+
+    {
+        "name": "FC Porto",
+        "champion": "2",
+        "country": "Portugal"
+    },
+
+    {
+        "name": "Roma",
+        "champion": "0",
+        "country": "Italy"
+    },
+
+    {
+        "name": "Atletico Madrid",
+        "champion": "0",
+        "country": "Spain"
+    }
+
+]
